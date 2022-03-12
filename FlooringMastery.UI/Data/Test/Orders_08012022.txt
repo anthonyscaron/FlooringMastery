@@ -1,0 +1,2 @@
+OrderNumber,CustomerName,State,TaxRate,ProductType,Area,CostPerSquareFoot,LaborCostPerSquareFoot,MaterialCost,LaborCost,Tax,Total
+2,Edited Order Customer Inc,MI,5.75,Wood,100,5.15,4.75,515.00,475.00,56.92,1046.92
