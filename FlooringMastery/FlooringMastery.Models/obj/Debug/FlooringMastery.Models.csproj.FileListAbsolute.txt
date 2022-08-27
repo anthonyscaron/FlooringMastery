@@ -1,0 +1,16 @@
+C:\Bootcamp\Repos\online-net-2021-anthonyscaron\Classwork\Badge2\FlooringMastery.Models\bin\Debug\FlooringMastery.Models.dll
+C:\Bootcamp\Repos\online-net-2021-anthonyscaron\Classwork\Badge2\FlooringMastery.Models\bin\Debug\FlooringMastery.Models.pdb
+C:\Bootcamp\Repos\online-net-2021-anthonyscaron\Classwork\Badge2\FlooringMastery.Models\obj\Debug\FlooringMastery.Models.csproj.CoreCompileInputs.cache
+C:\Bootcamp\Repos\online-net-2021-anthonyscaron\Classwork\Badge2\FlooringMastery.Models\obj\Debug\FlooringMastery.Models.dll
+C:\Bootcamp\Repos\online-net-2021-anthonyscaron\Classwork\Badge2\FlooringMastery.Models\obj\Debug\FlooringMastery.Models.pdb
+C:\Bootcamp\Repos\online-net-2021-anthonyscaron\Classwork\Badge2\FlooringMastery\FlooringMastery.Models\bin\Debug\FlooringMastery.Models.dll
+C:\Bootcamp\Repos\online-net-2021-anthonyscaron\Classwork\Badge2\FlooringMastery\FlooringMastery.Models\bin\Debug\FlooringMastery.Models.pdb
+C:\Bootcamp\Repos\online-net-2021-anthonyscaron\Classwork\Badge2\FlooringMastery\FlooringMastery.Models\obj\Debug\FlooringMastery.Models.csproj.CoreCompileInputs.cache
+C:\Bootcamp\Repos\online-net-2021-anthonyscaron\Classwork\Badge2\FlooringMastery\FlooringMastery.Models\obj\Debug\FlooringMastery.Models.dll
+C:\Bootcamp\Repos\online-net-2021-anthonyscaron\Classwork\Badge2\FlooringMastery\FlooringMastery.Models\obj\Debug\FlooringMastery.Models.pdb
+C:\GithubRepos\FlooringMastery\FlooringMastery\FlooringMastery.Models\bin\Debug\FlooringMastery.Models.dll
+C:\GithubRepos\FlooringMastery\FlooringMastery\FlooringMastery.Models\bin\Debug\FlooringMastery.Models.pdb
+C:\GithubRepos\FlooringMastery\FlooringMastery\FlooringMastery.Models\obj\Debug\FlooringMastery.Models.csproj.AssemblyReference.cache
+C:\GithubRepos\FlooringMastery\FlooringMastery\FlooringMastery.Models\obj\Debug\FlooringMastery.Models.csproj.CoreCompileInputs.cache
+C:\GithubRepos\FlooringMastery\FlooringMastery\FlooringMastery.Models\obj\Debug\FlooringMastery.Models.dll
+C:\GithubRepos\FlooringMastery\FlooringMastery\FlooringMastery.Models\obj\Debug\FlooringMastery.Models.pdb
